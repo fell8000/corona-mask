@@ -27,27 +27,27 @@
 
 + 100개이상(초록색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564352-787e1700-e97b-11ea-80e8-e58c943ced86.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564352-787e1700-e97b-11ea-80e8-e58c943ced86.PNG" width="30%"></img>
 
 + 30개 이상(주황색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564359-7a47da80-e97b-11ea-9aaf-e7490d113a64.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564359-7a47da80-e97b-11ea-9aaf-e7490d113a64.PNG" width="30%"></img>
 
 + 2개 - 30개(빨강색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564360-7a47da80-e97b-11ea-89e1-0abcc4abe4dc.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564360-7a47da80-e97b-11ea-89e1-0abcc4abe4dc.PNG" width="30%"></img>
 
 + 재고 없음(회색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564362-7ae07100-e97b-11ea-9627-c6cbad654d1a.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564362-7ae07100-e97b-11ea-9627-c6cbad654d1a.PNG" width="30%"></img>
 
 + 판매중지(검정색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564364-7b790780-e97b-11ea-90b7-9049fd116733.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564364-7b790780-e97b-11ea-90b7-9049fd116733.PNG" width="30%"></img>
 
 + 정보 없음(파랑색)
 
-<img src="(https://user-images.githubusercontent.com/63782897/91564365-7b790780-e97b-11ea-8041-a3d65c9207e7.PNG" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/63782897/91564365-7b790780-e97b-11ea-8041-a3d65c9207e7.PNG" width="30%"></img>
 
 
 html을 이용하여 정보를 확인해 볼 수 있음.
