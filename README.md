@@ -34,5 +34,4 @@ html을 이용하여 정보를 확인해 볼 수 있음.
 
 
 
-참조 링크 : [https://github.com/SOMJANG/Korea_Public_Mask_Store_Visualization#-getnearmaskstoreinfoaddress-]
  
