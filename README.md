@@ -30,5 +30,5 @@
 
 
 
-Link: [참조][https://github.com/SOMJANG/Korea_Public_Mask_Store_Visualization#-getnearmaskstoreinfoaddress-]
+참조 링크 : [https://github.com/SOMJANG/Korea_Public_Mask_Store_Visualization#-getnearmaskstoreinfoaddress-]
  
