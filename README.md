@@ -31,6 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/63782897/91564352-787e1700-e97b-11ea-80e8-e58c943ced86.PNG" width="30%"></img>
 
+
 + 30개 이상(주황색)
 
 <img src="https://user-images.githubusercontent.com/63782897/91564359-7a47da80-e97b-11ea-9aaf-e7490d113a64.PNG" width="30%"></img>
